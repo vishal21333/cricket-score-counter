@@ -1,0 +1,24 @@
+div {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+  font-size: 30px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
