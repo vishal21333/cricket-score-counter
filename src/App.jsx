@@ -11,10 +11,10 @@ function App() {
 
       <button onClick={() => setScore(score + 1)}>+1</button>
       <button onClick={() => setScore(score + 4)}>+4</button>
-      <button onClick={() => setScore(score + 16)}>+16</button>
+      <button onClick={() => setScore(score + 6)}>+6</button>
       <button onClick={() => setScore(0)}>Reset</button>
     </div>
   );
 }
 
-export default App;
+export default App;versel
